@@ -1,4 +1,4 @@
-package com.wst_app.common;
+package wst.common;
 
 public class Pessoa {
 	
@@ -11,4 +11,5 @@ public class Pessoa {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+
 }
