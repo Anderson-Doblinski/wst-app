@@ -1,4 +1,4 @@
-package wst.serviceimpl;
+package wst.serviceImpl;
 
 import org.springframework.stereotype.Service;
 
